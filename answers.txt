@@ -6,3 +6,8 @@ Answer: Because it saves your code and keeps track of file changes
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science can be applied to analysis of DNA sequences in the field of biostatistics
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merging preserves commit history, whereas rebasing rewrites historyb  
