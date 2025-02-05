@@ -11,3 +11,8 @@ Answer: Data science can be applied to analysis of DNA sequences in the field of
 Q3: What is the difference between Merging and Rebasing?
 
 Answer: Merging preserves commit history, whereas rebasing rewrites historyb  
+
+
+Q4: What are you looking forward to this semester?
+
+Answer: I'm looking forward to learning how to use pandas
